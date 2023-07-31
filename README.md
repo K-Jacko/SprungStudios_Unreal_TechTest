@@ -7,8 +7,10 @@ they please. If a slot is currently occupied, the two items occupying each slot 
 switch places. Some items will be stackable – allowing a user to combine the stack of two
 items of the same type.
 Please follow the rules below when creating the prototype:
-● Please only use the assets provided
-● Please use your own original code
-● Make the code modular, appropriately creating classes where required
-● Avoid downloading off-the-shelf assets. e.g. From the Unity Asset Store
-● Feel free to experiment with your own animations
+
+- Please only use the assets provided
+- Please use your own original code
+- Make the code modular, appropriately creating classes where required
+- Avoid downloading off-the-shelf assets. e.g. From the Unity Asset Store
+- Feel free to experiment with your own animations
+![Tooltip.gif](GitMedia%2FTooltip.gif)![Stackable.gif](GitMedia%2FStackable.gif)![Unstackable.gif](GitMedia%2FUnstackable.gif)
