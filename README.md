@@ -1,4 +1,6 @@
 # UnrealTechTest
+-----
+# Brief
 The goal is to implement a responsive inventory system you might traditionally see in a
 game.
 The inventory system will start by randomly populating the grid with a range of items.
@@ -13,4 +15,15 @@ Please follow the rules below when creating the prototype:
 - Make the code modular, appropriately creating classes where required
 - Avoid downloading off-the-shelf assets. e.g. From the Unity Asset Store
 - Feel free to experiment with your own animations
-![Tooltip.gif](GitMedia%2FTooltip.gif)![Stackable.gif](GitMedia%2FStackable.gif)![Unstackable.gif](GitMedia%2FUnstackable.gif)
+-----
+# Results
+
+## Scrollover Tooltip
+![Tooltip.gif](GitMedia%2FTooltip.gif)
+## Stackables
+![Stackable.gif](GitMedia%2FStackable.gif)
+## Unstackables
+![Unstackable.gif](GitMedia%2FUnstackable.gif)
+
+Other branch contains a pure C++ version 
+
